@@ -27,7 +27,7 @@ go
 *.note
 
 # Debug files
-.log
+*.log
 
 # Ignore key, cert, and hashed files
 *.pem
