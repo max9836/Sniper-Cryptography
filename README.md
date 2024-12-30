@@ -1,4 +1,4 @@
-# Snipper: Command-Line Encryption and Decryption Tool
+# Sniper: Command-Line Encryption and Decryption Tool
 
 ## Description
 This is a command-line encryption and decryption tool leveraging military-grade encryption standards. It is lightweight, easy to use, and optimized for secure data operations.
