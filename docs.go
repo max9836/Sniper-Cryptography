@@ -2,10 +2,10 @@ package main
 
 const help = `
 NAME:
-    snipper.exe - A secured military grade encryption tool
+    sniper.exe - A secured military grade encryption tool
 
 USAGE:
-    snipper.exe command [options]
+    sniper.exe command [options]
 
 VERSION:
     v.1.1.3
